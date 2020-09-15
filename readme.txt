@@ -29,6 +29,7 @@ DD9AF44B 99C49590 D2DBDEE1 75860FD2
 8) JavaScript Completions
 9) AutoFileName
 10) Sass
+11) browser sync
 
 
 
