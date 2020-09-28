@@ -45,6 +45,7 @@ DD9AF44B 99C49590 D2DBDEE1 75860FD2
 	"fold_buttons": false,
 	"font_size": 13,
 	"highlight_line": true,
+	"mini_diff": false,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
